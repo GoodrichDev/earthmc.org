@@ -1,0 +1,5 @@
+/.docusaurus
+/.idea
+/build
+/node_modules
+static/.nojekyll
