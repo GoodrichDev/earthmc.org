@@ -6,14 +6,21 @@ import Heading from '@theme/Heading';
 
 const maps = [
     {
-        title: 'World Map 1.20+',
+        title: '1:543 World Map 1.20+',
+        description: 'The newest version of our 1:543 scale Earth map for 1.20+',
+        image: '/img/world.avif',
+        downloadLink: 'https://cdn.earthmc.org/downloads/earth1-543.zip',
+        docsLink: '/docs/downloads/1-543-map',
+    },
+    {
+        title: '1:326 World Map 1.20+',
         description: 'The newest version of our 1:326 scale Earth map for 1.20+',
         image: '/img/world.avif',
         downloadLink: 'https://cdn.earthmc.org/downloads/world-1-20-v2.zip',
         docsLink: '/docs/downloads/version1-map',
     },
     {
-        title: 'World Map (Legacy)',
+        title: '1:326 World Map (Legacy)',
         description: 'An older version of our 1:326 scale Earth map for 1.20+',
         image: '/img/world.avif',
         downloadLink: 'https://cdn.earthmc.org/downloads/world-1.20.zip',

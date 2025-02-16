@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# World Map (Legacy)
+# 1:326 World Map (Legacy)
 
 ![World Map (Legacy)](../../static/img/world-complete.png)
 
@@ -10,7 +10,7 @@ sidebar_position: 2
 
 Download the **World Map (Legacy)** by clicking the link below:
 
-[Download World Map (Legacy)](https://cdn.earthmc.org/world-1.20.zip)
+[Download World Map (Legacy)](https://cdn.earthmc.org/downloads/world-1.20.zip)
 
 This map is provided as a '.zip' file and is meant for **Minecraft 1.20+**.
 
