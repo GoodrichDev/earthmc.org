@@ -26,6 +26,13 @@ const maps = [
         downloadLink: 'https://cdn.earthmc.org/downloads/world-1.20.zip',
         docsLink: '/docs/downloads/version2-map',
     },
+    {
+        title: '1:1000 World Map',
+        description: 'A fresh 1:1000 scale Earth map for 1.19.3+',
+        image: '/img/world.avif',
+        downloadLink: 'https://cdn.earthmc.org/downloads/earth1000.zip',
+        docsLink: '/docs/downloads/1000-map',
+    }
 ];
 
 export default function Home() {
