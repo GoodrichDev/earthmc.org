@@ -10,8 +10,9 @@ Explore and download the latest **Minecraft Earth Maps** for your adventures.
 
 We offer multiple versions of our high-quality Earth maps for Minecraft:
 
-- [World Map 1.20+](./downloads/version2-map)
-- [World Map (Legacy)](./downloads/version1-map)
+- [Earth Map 1:326](./downloads/earth-map)
+- [Earth Map 1:543](./downloads/1-543-map)
+- [Earth Map 1:1000](./downloads/1-1000-map)
 
 Click on a map to view details and download it.
 

@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Coordinator
 
+## [Click Here to Download Plugin](https://github.com/EarthPol/Coordinator/releases)
+
 ### Configuration Options
 - `scale`: The blocks per Tile
   - `Value Type`: Integer
