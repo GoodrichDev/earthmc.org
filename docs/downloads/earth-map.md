@@ -19,6 +19,8 @@ This map is provided as a '.zip' file and is meant for **Minecraft 1.20+**.
 - Scale: **1:326**
 - Dimensions: **-61440, -30720 to 61440, 25600**
 - Ideal for survival, creative, and multiplayer adventures!
+- Size: 176GB
+- Zip Size: 119GB
 
 ## Chunky Border Setup
 
