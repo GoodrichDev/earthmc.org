@@ -24,6 +24,13 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'GoodrichDev', // Usually your GitHub org/user name.
   projectName: 'earthmc.org', // Usually your repo name.
+  scripts: [
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3632978599628917',
+      async: true,
+      crossorigin: 'anonymous'
+    }
+  ],
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
