@@ -4,7 +4,27 @@ sidebar_position: 1
 
 # Coordinator
 
-## [Click Here to Download Plugin](https://github.com/EarthPol/Coordinator/releases)
+<button
+    onClick={async () => {
+        if (typeof umami !== 'undefined') {
+            await umami.track('plugin_coordinator_download');
+        }
+        window.location.href = 'https://github.com/EarthPol/Coordinator/releases';
+    }}
+    style={{
+        padding: '10px 20px',
+        fontSize: '18px',
+        fontWeight: 'bold',
+        color: '#fff',
+        backgroundColor: '#0070f3',
+        border: 'none',
+        borderRadius: '5px',
+        cursor: 'pointer',
+        marginTop: '10px',
+    }}
+>
+    📥 Download Coordinator Plugin
+</button>
 
 ### Configuration Options
 - `scale`: The blocks per Tile

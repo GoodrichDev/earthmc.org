@@ -9,21 +9,21 @@ const maps = [
         title: '1:326 World Map 1.20+',
         description: 'The newest version of our 1:326 scale Earth map for 1.20+',
         image: '/img/world.avif',
-        downloadLink: 'https://cdn.earthmc.org/downloads/earth-1-326.zip',
+        downloadLink: '/docs/downloads/earth-map',
         docsLink: '/docs/downloads/earth-map',
     },
     {
         title: '1:543 World Map 1.20+',
         description: 'The newest version of our 1:543 scale Earth map for 1.20+',
         image: '/img/world.avif',
-        downloadLink: 'https://cdn.earthmc.org/downloads/earth1-543.zip',
+        downloadLink: '/docs/downloads/1-543-map',
         docsLink: '/docs/downloads/1-543-map',
     },
     {
         title: '1:1000 World Map 1.19.3+',
         description: 'The best version of our 1:1000 scale Earth map for 1.19.3+',
         image: '/img/world.avif',
-        downloadLink: 'https://cdn.earthmc.org/downloads/earth1000.zip',
+        downloadLink: '/docs/downloads/1-1000-map',
         docsLink: '/docs/downloads/1-1000-map',
     }
 ];
