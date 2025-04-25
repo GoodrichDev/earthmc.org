@@ -29,7 +29,12 @@ const config = {
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3632978599628917',
       async: true,
       crossorigin: 'anonymous'
-    }
+    },
+    {
+      src: 'https://umami.cascadiainteractive.net/script.js',
+      defer: true,
+      'data-website-id': 'c0c16a67-3710-4b20-92c8-cbbd76543b91',
+    },
   ],
 
   onBrokenLinks: 'warn',
