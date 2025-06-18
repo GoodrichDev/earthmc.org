@@ -6,6 +6,13 @@ import Heading from '@theme/Heading';
 
 const maps = [
     {
+        title: '1:326 Selector',
+        description: 'Download any section of our 1:326 Earth Map for 1.20+',
+        image: '/img/world.avif',
+        downloadLink: '/docs/downloads/world-builder',
+        docsLink: '/docs/downloads/world-builder',
+    },
+    {
         title: '1:326 World Map 1.20+',
         description: 'The newest version of our 1:326 scale Earth map for 1.20+',
         image: '/img/world.avif',
