@@ -31,6 +31,27 @@ Download the latest **Earth Map 1.20+** by clicking the button below:
 >
     📥 Download 1:326 Earth Map 1.20+
 </button>
+<button
+    onClick={async () => {
+        if (typeof umami !== 'undefined') {
+            await umami.track('earth_map_1-326_download_torrent');
+        }
+        window.location.href = 'https://cdn.earthmc.org/downloads/earth-1-326.zip.torrent';
+    }}
+    style={{
+        padding: '10px 20px',
+        fontSize: '18px',
+        fontWeight: 'bold',
+        color: '#fff',
+        backgroundColor: '#0070f3',
+        border: 'none',
+        borderRadius: '5px',
+        cursor: 'pointer',
+        marginTop: '10px',
+    }}
+>
+    📥 Torrent 1:326 Earth Map 1.20+
+</button>
 
 <p>This map is provided as a '.zip' file and is meant for <strong>Minecraft 1.20+</strong>.</p>
 
